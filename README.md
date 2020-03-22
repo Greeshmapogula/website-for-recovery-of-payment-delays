@@ -1,2 +1,2 @@
-# sih
-automatic mail sender code for the complaints registered in samadhan portal.
+#Project
+A website which sends the recovery emails to various companies upon getting complaints regarding payment delays on them.
